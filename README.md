@@ -27,3 +27,54 @@ AI Engineer • Full Stack Developer • ML Enthusiast
 
 🌱 Currently learning
 LangChain • RAG • Agentic AI
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=honeyranjan1&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=honeyranjan1&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeyranjan1&layout=compact&theme=tokyonight"/>
+</p>
+
+
+## ⭐ Featured Projects
+
+🚀 StudyBuddy AI
+
+AI-powered learning assistant
+
+---
+
+🛰️ Disaster Damage Assessment
+
+CNN + TensorFlow
+
+---
+
+📈 Stock Prediction
+
+LSTM + Deep Learning
+
+---
+
+💊 Disease Prediction
+
+Naive Bayes + Flask

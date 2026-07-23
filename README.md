@@ -196,275 +196,120 @@ I love building products powered by AI.
 
 ---
 
-# 📊 GitHub Dashboard
+
+
+<h1 align="center">📊 GitHub Dashboard</h1>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=honeyranjan1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeyranjan1&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=honeyranjan1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://streak-stats.demolab.com?user=honeyranjan1&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=honeyranjan1&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=honeyranjan1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=honeyranjan1&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 
 
 </h3>
 <!-- ====================================================== -->
-<!--                  🚀 FEATURED PROJECTS                  -->
+<!--                 🚀 FEATURED PROJECTS                    -->
 <!-- ====================================================== -->
 
-<h1 align="center">🚀 Featured Projects</h1>
-
-<p align="center">
-A collection of projects that showcase my passion for AI, Machine Learning, Full-Stack Development, and solving real-world problems.
-</p>
-
----
+# 🚀 Featured Projects
 
 <table>
-
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ## 🤖 StudyBuddy AI
 
-### AI-Powered Learning Platform
+> AI-powered learning & placement preparation platform.
 
-A complete AI learning assistant that helps students study smarter using Large Language Models and modern web technologies.
+### ✨ Features
 
-### ✨ Highlights
-
-- 🤖 AI Chat Assistant
-- 📄 Chat with PDFs
+- 📄 AI PDF Chat
 - 🎯 Placement Preparation
-- 📝 Resume Analyzer
-- 💬 AI Mock Interview
-- 📚 Smart Notes Generator
-- 🔐 Authentication
-- ⚡ OpenAI API
-- ☁️ Supabase Backend
-
-### ⚙️ Tech Stack
-
-`React` `TypeScript` `TailwindCSS`
-
-`Supabase`
-
-`OpenAI`
-
-`PostgreSQL`
-
-`Vite`
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="90"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="90"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌐 Xevalis
-
-### Software Development Startup
-
-Building modern websites, AI applications, automation solutions, and scalable software for startups and businesses.
-
-### ✨ Services
-
-- 🌐 Modern Websites
-- 📱 Mobile Apps
-- 🤖 AI Applications
-- 🎨 UI/UX Design
-- ⚡ Automation
-- 🔗 REST APIs
-
-### ⚙️ Tech Stack
-
-`React`
-
-`TailwindCSS`
-
-`Node.js`
-
-`Supabase`
-
-`OpenAI`
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🛰️ Disaster Damage Assessment
-
-### Computer Vision Project
-
-Deep Learning model that classifies disaster damage from satellite imagery.
-
-### Features
-
-- 🛰 Satellite Images
-- 🧠 CNN Architecture
-- 📊 Data Visualization
-- 📈 Performance Analysis
-
-### Tech
-
-`TensorFlow`
-
-`Python`
-
-`NumPy`
-
-`Matplotlib`
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="90"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="90"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📈 Stock Price Prediction
-
-### Deep Learning Project
-
-Predicting stock prices using Long Short-Term Memory (LSTM) Neural Networks.
-
-### Features
-
-- 📈 Time-Series Forecasting
-- 📊 Trend Prediction
-- 📉 Data Visualization
-- 📚 Historical Analysis
-
-### Tech
-
-`Python`
-
-`TensorFlow`
-
-`Pandas`
-
-`Matplotlib`
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 💊 Disease Prediction System
-
-### Machine Learning Application
-
-Predict diseases and recommend medicines using machine learning algorithms.
-
-### Features
-
-- 🧠 Disease Prediction
-- 💊 Drug Recommendation
-- 📊 ML Classification
-- ⚡ Fast Predictions
-
-### Tech
-
-`Python`
-
-`Flask`
-
-`Scikit-Learn`
-
-`Pandas`
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="90"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<h2 align="center">💡 More Projects Coming Soon...</h2>
+- 🧠 Resume Analyzer
+- 💬 AI Interview
+- 📚 Smart Notes
+- 🤖 OpenAI Integration
+- ⚡ Supabase Backend
 
 <p align="center">
 
-⭐ AI • Machine Learning • Full Stack • Open Source ⭐
 
 </p>
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+
+</td>
+
+<td width="50%">
+
+# 🌐 Xevalis
+
+Modern AI Development Studio
+
+### Services
+
+✔ Websites
+
+✔ AI Applications
+
+✔ Mobile Apps
+
+✔ UI/UX
+
+✔ Automation
+
+✔ API Development
+
+<p align="center">
+
+
+
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏆 Other Projects
+
+| Project | Description |
+|----------|-------------|
+| 🛰 Disaster Damage Assessment | CNN + TensorFlow + Satellite Images |
+| 📈 Stock Price Prediction | LSTM Deep Learning |
+| 💊 Disease Prediction | Machine Learning + Flask |
+| 📊 Data Analytics Dashboard | SQL + Power BI |
+| 🤖 AI Chatbots | OpenAI APIs |
+
+---
 
 # 🧠 AI Journey
 
@@ -580,7 +425,7 @@ while(alive){
 
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/honeyranjan">
 
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 
@@ -592,35 +437,21 @@ while(alive){
 
 </a>
 
-<a href="https://xevalis.vercel.app">
-
-<img src="https://skillicons.dev/icons?i=vercel"/>
-
-</a>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+<h1 align="center">🏆 Achievements</h1>
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=honeyranjan1&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=honeyranjan1&theme=tokyonight" />
 </p>
-
----
-
-# 📊 Weekly Coding Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=honeyranjan1&theme=tokyonight"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=honeyranjan1&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=honeyranjan1&theme=tokyonight" />
 </p>
-
----
 
 # 💡 Random Dev Quote
 

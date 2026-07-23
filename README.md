@@ -78,3 +78,7 @@ LSTM + Deep Learning
 💊 Disease Prediction
 
 Naive Bayes + Flask
+
+![](https://komarev.com/ghpvc/?username=honeyranjan1&style=for-the-badge)
+
+[![Honey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=honeyranjan1&theme=tokyo-night)](https://github.com/honeyranjan1)

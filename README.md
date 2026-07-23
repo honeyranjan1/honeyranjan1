@@ -221,112 +221,250 @@ I love building products powered by AI.
 
 </h3>
 <!-- ====================================================== -->
-<!--                 🚀 FEATURED PROJECTS                    -->
+<!--                  🚀 FEATURED PROJECTS                  -->
 <!-- ====================================================== -->
 
-# 🚀 Featured Projects
+<h1 align="center">🚀 Featured Projects</h1>
+
+<p align="center">
+A collection of projects that showcase my passion for AI, Machine Learning, Full-Stack Development, and solving real-world problems.
+</p>
+
+---
 
 <table>
+
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🤖 StudyBuddy AI
 
-> AI-powered learning & placement preparation platform.
+### AI-Powered Learning Platform
 
-### ✨ Features
+A complete AI learning assistant that helps students study smarter using Large Language Models and modern web technologies.
 
-- 📄 AI PDF Chat
+### ✨ Highlights
+
+- 🤖 AI Chat Assistant
+- 📄 Chat with PDFs
 - 🎯 Placement Preparation
-- 🧠 Resume Analyzer
-- 💬 AI Interview
-- 📚 Smart Notes
-- 🤖 OpenAI Integration
-- ⚡ Supabase Backend
+- 📝 Resume Analyzer
+- 💬 AI Mock Interview
+- 📚 Smart Notes Generator
+- 🔐 Authentication
+- ⚡ OpenAI API
+- ☁️ Supabase Backend
 
-<p align="center">
+### ⚙️ Tech Stack
 
-<a href="YOUR_LIVE_LINK">
-<img src="https://img.shields.io/badge/LIVE DEMO-00E5FF?style=for-the-badge"/>
-</a>
+`React` `TypeScript` `TailwindCSS`
 
-<a href="YOUR_GITHUB_LINK">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/>
-</a>
+`Supabase`
 
-</p>
+`OpenAI`
+
+`PostgreSQL`
+
+`Vite`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="90"/>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
 <table>
+
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="90"/>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-# 🌐 Xevalis
+## 🌐 Xevalis
 
-Modern AI Development Studio
+### Software Development Startup
 
-### Services
+Building modern websites, AI applications, automation solutions, and scalable software for startups and businesses.
 
-✔ Websites
+### ✨ Services
 
-✔ AI Applications
+- 🌐 Modern Websites
+- 📱 Mobile Apps
+- 🤖 AI Applications
+- 🎨 UI/UX Design
+- ⚡ Automation
+- 🔗 REST APIs
 
-✔ Mobile Apps
+### ⚙️ Tech Stack
 
-✔ UI/UX
+`React`
 
-✔ Automation
+`TailwindCSS`
 
-✔ API Development
+`Node.js`
 
-<p align="center">
+`Supabase`
 
-<a href="https://xevalis.vercel.app">
-
-<img src="https://img.shields.io/badge/VISIT WEBSITE-111827?style=for-the-badge&logo=vercel"/>
-
-</a>
-
-</p>
+`OpenAI`
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-# 🏆 Other Projects
+<table>
 
-| Project | Description |
-|----------|-------------|
-| 🛰 Disaster Damage Assessment | CNN + TensorFlow + Satellite Images |
-| 📈 Stock Price Prediction | LSTM Deep Learning |
-| 💊 Disease Prediction | Machine Learning + Flask |
-| 📊 Data Analytics Dashboard | SQL + Power BI |
-| 🤖 AI Chatbots | OpenAI APIs |
+<tr>
+
+<td width="50%" valign="top">
+
+## 🛰️ Disaster Damage Assessment
+
+### Computer Vision Project
+
+Deep Learning model that classifies disaster damage from satellite imagery.
+
+### Features
+
+- 🛰 Satellite Images
+- 🧠 CNN Architecture
+- 📊 Data Visualization
+- 📈 Performance Analysis
+
+### Tech
+
+`TensorFlow`
+
+`Python`
+
+`NumPy`
+
+`Matplotlib`
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="90"/>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="90"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📈 Stock Price Prediction
+
+### Deep Learning Project
+
+Predicting stock prices using Long Short-Term Memory (LSTM) Neural Networks.
+
+### Features
+
+- 📈 Time-Series Forecasting
+- 📊 Trend Prediction
+- 📉 Data Visualization
+- 📚 Historical Analysis
+
+### Tech
+
+`Python`
+
+`TensorFlow`
+
+`Pandas`
+
+`Matplotlib`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 💊 Disease Prediction System
+
+### Machine Learning Application
+
+Predict diseases and recommend medicines using machine learning algorithms.
+
+### Features
+
+- 🧠 Disease Prediction
+- 💊 Drug Recommendation
+- 📊 ML Classification
+- ⚡ Fast Predictions
+
+### Tech
+
+`Python`
+
+`Flask`
+
+`Scikit-Learn`
+
+`Pandas`
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="90"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">💡 More Projects Coming Soon...</h2>
+
+<p align="center">
+
+⭐ AI • Machine Learning • Full Stack • Open Source ⭐
+
+</p>
 
 # 🧠 AI Journey
 

@@ -238,3 +238,300 @@ I love building products powered by AI.
 ⭐ Thanks for visiting ⭐
 
 </h3>
+<!-- ====================================================== -->
+<!--                 🚀 FEATURED PROJECTS                    -->
+<!-- ====================================================== -->
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🤖 StudyBuddy AI
+
+> AI-powered learning & placement preparation platform.
+
+### ✨ Features
+
+- 📄 AI PDF Chat
+- 🎯 Placement Preparation
+- 🧠 Resume Analyzer
+- 💬 AI Interview
+- 📚 Smart Notes
+- 🤖 OpenAI Integration
+- ⚡ Supabase Backend
+
+<p align="center">
+
+<a href="YOUR_LIVE_LINK">
+<img src="https://img.shields.io/badge/LIVE DEMO-00E5FF?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+
+</td>
+
+<td width="50%">
+
+# 🌐 Xevalis
+
+Modern AI Development Studio
+
+### Services
+
+✔ Websites
+
+✔ AI Applications
+
+✔ Mobile Apps
+
+✔ UI/UX
+
+✔ Automation
+
+✔ API Development
+
+<p align="center">
+
+<a href="https://xevalis.vercel.app">
+
+<img src="https://img.shields.io/badge/VISIT WEBSITE-111827?style=for-the-badge&logo=vercel"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏆 Other Projects
+
+| Project | Description |
+|----------|-------------|
+| 🛰 Disaster Damage Assessment | CNN + TensorFlow + Satellite Images |
+| 📈 Stock Price Prediction | LSTM Deep Learning |
+| 💊 Disease Prediction | Machine Learning + Flask |
+| 📊 Data Analytics Dashboard | SQL + Power BI |
+| 🤖 AI Chatbots | OpenAI APIs |
+
+---
+
+# 🧠 AI Journey
+
+```text
+2022
+│
+├── Python
+│
+├── Machine Learning
+│
+├── TensorFlow
+│
+├── Deep Learning
+│
+├── Computer Vision
+│
+├── Full Stack Development
+│
+├── OpenAI APIs
+│
+├── StudyBuddy AI
+│
+├── Xevalis
+│
+└── AI Engineering 🚀
+```
+
+---
+
+# ⚡ Currently Building
+
+```text
+🤖 StudyBuddy AI
+
+████████████████████████░ 95%
+
+🌐 Xevalis
+
+██████████████████████░░░ 90%
+
+🧠 Agentic AI
+
+███████████████░░░░░░░░░░ 60%
+
+📚 LangChain
+
+██████████████░░░░░░░░░░░ 55%
+
+🚀 Open Source
+
+██████████████████░░░░░░░ 75%
+```
+
+---
+
+# 💻 Developer Terminal
+
+```bash
+$ whoami
+
+Honey Ranjan
+
+$ education
+
+B.Tech CSE (AI/ML)
+
+$ location
+
+India 🇮🇳
+
+$ current_focus
+
+AI Engineering
+
+Full Stack
+
+Open Source
+
+$ currently_building
+
+StudyBuddy AI
+
+Xevalis
+
+$ favorite_language
+
+Python 🐍
+
+$ life
+
+while(alive){
+
+    eat();
+
+    code();
+
+    sleep();
+
+    repeat();
+
+}
+```
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/honeyranjan1">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+<a href="YOUR_LINKEDIN">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="mailto:honey10022005@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+<a href="https://xevalis.vercel.app">
+
+<img src="https://skillicons.dev/icons?i=vercel"/>
+
+</a>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=honeyranjan1&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📊 Weekly Coding Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=honeyranjan1&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💡 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ❤️ Support My Work
+
+<p align="center">
+
+If you like my projects,
+
+consider giving them a ⭐.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/THANKS%20FOR%20VISITING-00E5FF?style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0ea5e9,100:2563eb&section=footer&text=Happy%20Coding!%20🚀&fontSize=32&fontColor=ffffff"/>
+
+</p>

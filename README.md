@@ -3,7 +3,8 @@
 <!-- ========================= -->
 
 <p align="center">
-<img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" alt="Honey Ranjan Banner"/>
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/f25e581b-0c31-4451-9259-9d142e7a5308" />
+
 </p>
 
 <h1 align="center">
@@ -235,7 +236,6 @@ I love building products powered by AI.
 
 <h3 align="center">
 
-⭐ Thanks for visiting ⭐
 
 </h3>
 <!-- ====================================================== -->

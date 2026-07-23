@@ -1,84 +1,240 @@
-<h1 align="center">Hi 👋, I'm Honey Ranjan</h1>
+<!-- ========================= -->
+<!--      FUTURISTIC BANNER    -->
+<!-- ========================= -->
 
 <p align="center">
-AI Engineer • Full Stack Developer • ML Enthusiast
+<img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" alt="Honey Ranjan Banner"/>
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Hey+there+👋;I'm+Honey+Ranjan;AI+Engineer;Full+Stack+Developer;Building+AI+That+Matters;Welcome+to+my+GitHub!" />
+</h1>
+
+<h3 align="center">
+AI Engineer • Machine Learning • Full Stack Developer • Founder @ Xevalis
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Building+Xevalis;Open+Source+Enthusiast" />
+
+<a href="mailto:honey10022005@gmail.com">
+<img src="https://img.shields.io/badge/Email-00C2FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://xevalis.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/honeyranjan1">
+<img src="https://komarev.com/ghpvc/?username=honeyranjan1&style=for-the-badge&color=00E5FF"/>
+</a>
+
 </p>
 
-<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/e164b7b1-6392-461a-aa46-59594977d48a" />
+---
 
-## 🚀 About Me
+# ⚡ About Me
+
+<table>
+
+<tr>
+
+<td width="55%">
+
+## 👨‍💻 Honey Ranjan
 
 🎓 Final Year B.Tech CSE (AI/ML)
 
-💻 Building AI-powered Web Applications
+🤖 AI Engineer
 
-🤖 Interested in
+💻 Full Stack Developer
 
-- AI Agents
-- LLMs
+🚀 Founder @ Xevalis
+
+🧠 Learning
+
+- Agentic AI
+- LangChain
+- LLM Engineering
+- RAG Systems
+
+❤️ Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Open Source
 - Computer Vision
-- Full Stack Development
+- Generative AI
 
-🚀 Founder of Xevalis
+☕ Fun Fact
 
-🌱 Currently learning
-LangChain • RAG • Agentic AI
+I love building products powered by AI.
 
-## 💻 Tech Stack
+</td>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<td width="45%">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl4aHpkb3A3OHF2cWhvNTR0ZGF5Zm82OWM4Y2N3YjBybDQ4dnJzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
 
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css)
+</td>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+</tr>
 
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=honeyranjan1&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=honeyranjan1&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeyranjan1&layout=compact&theme=tokyonight"/>
-</p>
-
-
-## ⭐ Featured Projects
-
-🚀 StudyBuddy AI
-
-AI-powered learning assistant
+</table>
 
 ---
 
-🛰️ Disaster Damage Assessment
+# 🚀 Current Mission
 
-CNN + TensorFlow
+```text
+███████████████████████░░  Building StudyBuddy AI
+
+████████████████████░░░░  Growing Xevalis
+
+██████████████████░░░░░░  Learning AI Agents
+
+█████████████████████░░░  Open Source
+```
 
 ---
 
-📈 Stock Prediction
+# 💻 Tech Stack
 
-LSTM + Deep Learning
+## 🚀 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=ts"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
 
 ---
 
-💊 Disease Prediction
+## 🎨 Frontend
 
-Naive Bayes + Flask
+<p>
 
-![](https://komarev.com/ghpvc/?username=honeyranjan1&style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=react"/>
 
-[![Honey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=honeyranjan1&theme=tokyo-night)](https://github.com/honeyranjan1)
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+</p>
+
+---
+
+## ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+<img src="https://skillicons.dev/icons?i=supabase"/>
+
+</p>
+
+---
+
+## 🤖 AI / ML
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://skillicons.dev/icons?i=opencv"/>
+
+<img src="https://skillicons.dev/icons?i=anaconda"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+<img src="https://skillicons.dev/icons?i=vercel"/>
+
+</p>
+
+---
+
+# 📊 GitHub Dashboard
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=honeyranjan1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=honeyranjan1&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeyranjan1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=honeyranjan1&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Snake Animation
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/honeyranjan1/honeyranjan1/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting ⭐
+
+</h3>

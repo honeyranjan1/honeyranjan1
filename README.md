@@ -25,7 +25,7 @@ AI Engineer • Machine Learning • Full Stack Developer • Founder @ Xevalis
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://xevalis.vercel.app">
+<a href="">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel"/>
 </a>
 
@@ -93,7 +93,7 @@ I love building products powered by AI.
 ```text
 ███████████████████████░░  Building StudyBuddy AI
 
-████████████████████░░░░  Growing Xevalis
+████████████████████░░░░  Growing YSRTech
 
 ██████████████████░░░░░░  Learning AI Agents
 
@@ -265,7 +265,7 @@ I love building products powered by AI.
 
 <td width="50%">
 
-# 🌐 Xevalis
+# 🌐 YSRTech
 
 Modern AI Development Studio
 
@@ -346,7 +346,7 @@ Modern AI Development Studio
 
 ████████████████████████░ 95%
 
-🌐 Xevalis
+🌐 YSRTech
 
 ██████████████████████░░░ 90%
 
@@ -392,7 +392,7 @@ $ currently_building
 
 StudyBuddy AI
 
-Xevalis
+YSRTech
 
 $ favorite_language
 
